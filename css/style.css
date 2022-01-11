@@ -1,0 +1,19 @@
+body {
+    margin: 0, auto;
+}
+
+h1 {
+    font-size: 2rem;
+}
+.gameboard {
+    font-size: 3rem;  
+}
+
+.table {
+    border: solid 2px #E7E7ED;
+    margin: 2% 25%;
+}
+
+tr, th {
+    border: solid 2px #E7E7ED;
+}
